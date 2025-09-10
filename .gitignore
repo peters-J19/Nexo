@@ -1,0 +1,14 @@
+# node
+node_modules
+npm-debug.log*
+pnpm-lock.yaml
+yarn.lock
+
+# env
+*.env
+*.env.*
+frontend/.env*
+backend/.env*
+
+# vite
+frontend/distcd ..
